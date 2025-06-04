@@ -1,5 +1,5 @@
-git clone [https://github.com/Mrglitchoffical/DDoS-Lab-Ultimate.git](https://github.com/Mrglitchoffical/Ddos_Lab-2.git)
-cd DDoS-Lab-Ultimate
+git clone https://github.com/Mrglitchoffical/Ddos_Lab-2.git
+cd DDoS-Lab-2
 pkg install python -y
 pip install -r requirements.txt
 chmod +x run.sh
