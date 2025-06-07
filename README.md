@@ -6,5 +6,9 @@ apt install python -y
 
 pip install -r requirements.txt
 
-chmod +x run.sh
-./run.sh
+## Attacks
+
+### TCP Flood
+```bash
+cd attack
+python3 tcp_flood.py 192.168.0.100 80 200 0.01
