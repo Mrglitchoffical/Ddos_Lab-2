@@ -5,7 +5,8 @@ git clone https://github.com/Mrglitchoffical/Ddos_Lab-2.git
 ```
 cd Ddos_Lab-2
 
-apt install python -y```
+apt install python -y
+```
 
 ```pip install -r requirements.txt ```
 
